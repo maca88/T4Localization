@@ -1,0 +1,125 @@
+﻿<#@ include file="Imports.ttinclude"#>
+<#@ include file="Utils.ttinclude"#>
+<#@ include file="Header.ttinclude"#>
+<#@ include file="VsHelperInit.ttinclude"#>
+<#
+	//System.Diagnostics.Debugger.Launch();
+	//System.Diagnostics.Debugger.Break();	
+    var settings = XmlSettings.Load(VSHelper.Host.TemplateFile + ".settings.xml");
+    var englishPoFliePath = !string.IsNullOrEmpty( settings.EnglishPoFilePath) ? Host.ResolvePath(settings.EnglishPoFilePath) : null;
+	var projectItems = VSHelper.GetAllProjectItems();
+    var translations = new HashSet<string>();
+
+	//Process all cs files
+    
+    VSHelper.ProcessFiles(projectItems, (file, name) =>
+        VSHelper.ProcessTypes(file, (type, pItem) =>
+        {
+            if (VSHelper.GetAttribute(type.Attributes, settings.LocalizableAttribute) == null)
+                return;
+            foreach (var prop in VSHelper.GetProperties(type))
+            {
+                var propAttr = VSHelper.GetAttribute(prop.Attributes, settings.LocalizableAttribute);
+                if (propAttr == null)
+                {
+                    translations.Add(prop.Name);
+					continue;
+                }
+                if (VSHelper.GetAttributeArgumentValue(propAttr, "Ignore") == "true")
+					continue;
+                var messageId = VSHelper.GetAttributeArgumentValue(propAttr, "MessageId");
+                translations.Add(!string.IsNullOrEmpty(messageId) ? messageId.Replace("\"", "") : prop.Name);
+            }
+        }));
+
+    if (settings.GenerateCultures)
+    {
+        //Add translations for cultures in English provided by .NET
+        var cultures = CultureInfo.GetCultures(CultureTypes.AllCultures).Where(o => !string.IsNullOrEmpty(o.Name)).ToList();
+        var cultureDict = cultures.ToDictionary(o => o.Name);
+
+        //Register all cultures
+        foreach (var culture in cultures)
+        {
+            translations.Add(culture.Name);
+        }
+
+        if (!string.IsNullOrEmpty(settings.EnglishPoFilePath) && File.Exists(englishPoFliePath))
+        {
+            var replaced = Regex.Replace(File.ReadAllText(englishPoFliePath),
+                @"msgid[^""]+""([^""]+)""\s+msgstr[^""]+""([^""]*)""", match =>
+                {
+                    var key = match.Groups[1].Value;
+                    if (!cultureDict.ContainsKey(key)) return match.Value;
+                    return
+                        string.Format("msgid \"{0}\"", key) +
+                        Environment.NewLine +
+                        string.Format("msgstr \"{0}\"", cultureDict[key].EnglishName);
+                }, RegexOptions.IgnoreCase);
+            File.WriteAllText(englishPoFliePath, replaced);
+        }
+    }
+
+	
+
+#>
+
+// ReSharper disable All
+namespace <#=settings.GeneratedNamespace#>
+{
+	public class <#=settings.GeneratedClassName#>
+	{
+		public static void Register()
+		{
+<#
+    foreach (var translation in translations)
+    {
+#>
+			<#=settings.I18NRegisterFunction#>("<#=translation #>");
+<#
+	}
+#>
+		}
+    }
+}
+
+
+<#+
+
+    public class XmlSettings
+    {
+        public static XmlSettings Load(string path)
+        {
+            if(!File.Exists(path))
+                throw new FileNotFoundException(string.Format("Missing settings at: '{0}'", path));
+
+            var xElement = XElement.Load(path);
+            
+            var settings = new XmlSettings
+            {
+                LocalizableAttribute = xElement.XPathSelectElement("/LocalizableAttribute").Value,
+                I18NRegisterFunction = xElement.XPathSelectElement("/I18NRegisterFunction").Value,
+                GeneratedClassName = xElement.XPathSelectElement("/GeneratedClassName").Value,
+                GenerateCultures = xElement.XPathSelectElement("/DotNetCultures/Generate").Value.ToUpperInvariant() == "TRUE",
+                EnglishPoFilePath = xElement.XPathSelectElement("/DotNetCultures/EnglishPoFilePath").Value,
+                GeneratedNamespace = xElement.XPathSelectElement("/GeneratedNamespace").Value,
+            };
+            return settings;
+        }
+
+        public string I18NRegisterFunction { get; set; }
+        
+        public string LocalizableAttribute { get; set; }
+
+        public bool GenerateCultures{ get; set; }
+
+        public string EnglishPoFilePath { get; set; }
+
+        public string GeneratedNamespace { get; set; }
+
+        public string GeneratedClassName { get; set; }
+
+    }
+
+
+#>

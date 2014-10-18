@@ -1,0 +1,1072 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: app\n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: en\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.6.4\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+msgid "ar"
+msgstr "Arabic"
+
+msgid "bg"
+msgstr "Bulgarian"
+
+msgid "ca"
+msgstr "Catalan"
+
+msgid "zh-Hans"
+msgstr "Chinese (Simplified)"
+
+msgid "cs"
+msgstr "Czech"
+
+msgid "da"
+msgstr "Danish"
+
+msgid "de"
+msgstr "German"
+
+msgid "el"
+msgstr "Greek"
+
+msgid "en"
+msgstr "English"
+
+msgid "es"
+msgstr "Spanish"
+
+msgid "fi"
+msgstr "Finnish"
+
+msgid "fr"
+msgstr "French"
+
+msgid "he"
+msgstr "Hebrew"
+
+msgid "hu"
+msgstr "Hungarian"
+
+msgid "is"
+msgstr "Icelandic"
+
+msgid "it"
+msgstr "Italian"
+
+msgid "ja"
+msgstr "Japanese"
+
+msgid "ko"
+msgstr "Korean"
+
+msgid "nl"
+msgstr "Dutch"
+
+msgid "no"
+msgstr "Norwegian"
+
+msgid "pl"
+msgstr "Polish"
+
+msgid "pt"
+msgstr "Portuguese"
+
+msgid "rm"
+msgstr "Romansh"
+
+msgid "ro"
+msgstr "Romanian"
+
+msgid "ru"
+msgstr "Russian"
+
+msgid "hr"
+msgstr "Croatian"
+
+msgid "sk"
+msgstr "Slovak"
+
+msgid "sq"
+msgstr "Albanian"
+
+msgid "sv"
+msgstr "Swedish"
+
+msgid "th"
+msgstr "Thai"
+
+msgid "tr"
+msgstr "Turkish"
+
+msgid "ur"
+msgstr "Urdu"
+
+msgid "id"
+msgstr "Indonesian"
+
+msgid "uk"
+msgstr "Ukrainian"
+
+msgid "be"
+msgstr "Belarusian"
+
+msgid "sl"
+msgstr "Slovenian"
+
+msgid "et"
+msgstr "Estonian"
+
+msgid "lv"
+msgstr "Latvian"
+
+msgid "lt"
+msgstr "Lithuanian"
+
+msgid "tg"
+msgstr "Tajik"
+
+msgid "fa"
+msgstr "Persian"
+
+msgid "vi"
+msgstr "Vietnamese"
+
+msgid "hy"
+msgstr "Armenian"
+
+msgid "az"
+msgstr "Azeri"
+
+msgid "eu"
+msgstr "Basque"
+
+msgid "hsb"
+msgstr "Upper Sorbian"
+
+msgid "mk"
+msgstr "Macedonian (FYROM)"
+
+msgid "tn"
+msgstr "Setswana"
+
+msgid "xh"
+msgstr "isiXhosa"
+
+msgid "zu"
+msgstr "isiZulu"
+
+msgid "af"
+msgstr "Afrikaans"
+
+msgid "ka"
+msgstr "Georgian"
+
+msgid "fo"
+msgstr "Faroese"
+
+msgid "hi"
+msgstr "Hindi"
+
+msgid "mt"
+msgstr "Maltese"
+
+msgid "se"
+msgstr "Sami (Northern)"
+
+msgid "ga"
+msgstr "Irish"
+
+msgid "ms"
+msgstr "Malay"
+
+msgid "kk"
+msgstr "Kazakh"
+
+msgid "ky"
+msgstr "Kyrgyz"
+
+msgid "sw"
+msgstr "Kiswahili"
+
+msgid "tk"
+msgstr "Turkmen"
+
+msgid "uz"
+msgstr "Uzbek"
+
+msgid "tt"
+msgstr "Tatar"
+
+msgid "bn"
+msgstr "Bengali"
+
+msgid "pa"
+msgstr "Punjabi"
+
+msgid "gu"
+msgstr "Gujarati"
+
+msgid "or"
+msgstr "Oriya"
+
+msgid "ta"
+msgstr "Tamil"
+
+msgid "te"
+msgstr "Telugu"
+
+msgid "kn"
+msgstr "Kannada"
+
+msgid "ml"
+msgstr "Malayalam"
+
+msgid "as"
+msgstr "Assamese"
+
+msgid "mr"
+msgstr "Marathi"
+
+msgid "sa"
+msgstr "Sanskrit"
+
+msgid "mn"
+msgstr "Mongolian"
+
+msgid "bo"
+msgstr "Tibetan"
+
+msgid "cy"
+msgstr "Welsh"
+
+msgid "km"
+msgstr "Khmer"
+
+msgid "lo"
+msgstr "Lao"
+
+msgid "gl"
+msgstr "Galician"
+
+msgid "kok"
+msgstr "Konkani"
+
+msgid "syr"
+msgstr "Syriac"
+
+msgid "si"
+msgstr "Sinhala"
+
+msgid "iu"
+msgstr "Inuktitut"
+
+msgid "am"
+msgstr "Amharic"
+
+msgid "tzm"
+msgstr "Tamazight"
+
+msgid "ne"
+msgstr "Nepali"
+
+msgid "fy"
+msgstr "Frisian"
+
+msgid "ps"
+msgstr "Pashto"
+
+msgid "fil"
+msgstr "Filipino"
+
+msgid "dv"
+msgstr "Divehi"
+
+msgid "ha"
+msgstr "Hausa"
+
+msgid "yo"
+msgstr "Yoruba"
+
+msgid "quz"
+msgstr "Quechua"
+
+msgid "nso"
+msgstr "Sesotho sa Leboa"
+
+msgid "ba"
+msgstr "Bashkir"
+
+msgid "lb"
+msgstr "Luxembourgish"
+
+msgid "kl"
+msgstr "Greenlandic"
+
+msgid "ig"
+msgstr "Igbo"
+
+msgid "ii"
+msgstr "Yi"
+
+msgid "arn"
+msgstr "Mapudungun"
+
+msgid "moh"
+msgstr "Mohawk"
+
+msgid "br"
+msgstr "Breton"
+
+msgid "ug"
+msgstr "Uyghur"
+
+msgid "mi"
+msgstr "Maori"
+
+msgid "oc"
+msgstr "Occitan"
+
+msgid "co"
+msgstr "Corsican"
+
+msgid "gsw"
+msgstr "Alsatian"
+
+msgid "sah"
+msgstr "Yakut"
+
+msgid "qut"
+msgstr "K'iche"
+
+msgid "rw"
+msgstr "Kinyarwanda"
+
+msgid "wo"
+msgstr "Wolof"
+
+msgid "prs"
+msgstr "Dari"
+
+msgid "gd"
+msgstr "Scottish Gaelic"
+
+msgid "ar-SA"
+msgstr "Arabic (Saudi Arabia)"
+
+msgid "bg-BG"
+msgstr "Bulgarian (Bulgaria)"
+
+msgid "ca-ES"
+msgstr "Catalan (Catalan)"
+
+msgid "zh-TW"
+msgstr "Chinese (Traditional, Taiwan)"
+
+msgid "cs-CZ"
+msgstr "Czech (Czech Republic)"
+
+msgid "da-DK"
+msgstr "Danish (Denmark)"
+
+msgid "de-DE"
+msgstr "German (Germany)"
+
+msgid "el-GR"
+msgstr "Greek (Greece)"
+
+msgid "en-US"
+msgstr "English (United States)"
+
+msgid "fi-FI"
+msgstr "Finnish (Finland)"
+
+msgid "fr-FR"
+msgstr "French (France)"
+
+msgid "he-IL"
+msgstr "Hebrew (Israel)"
+
+msgid "hu-HU"
+msgstr "Hungarian (Hungary)"
+
+msgid "is-IS"
+msgstr "Icelandic (Iceland)"
+
+msgid "it-IT"
+msgstr "Italian (Italy)"
+
+msgid "ja-JP"
+msgstr "Japanese (Japan)"
+
+msgid "ko-KR"
+msgstr "Korean (Korea)"
+
+msgid "nl-NL"
+msgstr "Dutch (Netherlands)"
+
+msgid "nb-NO"
+msgstr "Norwegian, Bokmål (Norway)"
+
+msgid "pl-PL"
+msgstr "Polish (Poland)"
+
+msgid "pt-BR"
+msgstr "Portuguese (Brazil)"
+
+msgid "rm-CH"
+msgstr "Romansh (Switzerland)"
+
+msgid "ro-RO"
+msgstr "Romanian (Romania)"
+
+msgid "ru-RU"
+msgstr "Russian (Russia)"
+
+msgid "hr-HR"
+msgstr "Croatian (Croatia)"
+
+msgid "sk-SK"
+msgstr "Slovak (Slovakia)"
+
+msgid "sq-AL"
+msgstr "Albanian (Albania)"
+
+msgid "sv-SE"
+msgstr "Swedish (Sweden)"
+
+msgid "th-TH"
+msgstr "Thai (Thailand)"
+
+msgid "tr-TR"
+msgstr "Turkish (Turkey)"
+
+msgid "ur-PK"
+msgstr "Urdu (Islamic Republic of Pakistan)"
+
+msgid "id-ID"
+msgstr "Indonesian (Indonesia)"
+
+msgid "uk-UA"
+msgstr "Ukrainian (Ukraine)"
+
+msgid "be-BY"
+msgstr "Belarusian (Belarus)"
+
+msgid "sl-SI"
+msgstr "Slovenian (Slovenia)"
+
+msgid "et-EE"
+msgstr "Estonian (Estonia)"
+
+msgid "lv-LV"
+msgstr "Latvian (Latvia)"
+
+msgid "lt-LT"
+msgstr "Lithuanian (Lithuania)"
+
+msgid "tg-Cyrl-TJ"
+msgstr "Tajik (Cyrillic, Tajikistan)"
+
+msgid "fa-IR"
+msgstr "Persian"
+
+msgid "vi-VN"
+msgstr "Vietnamese (Vietnam)"
+
+msgid "hy-AM"
+msgstr "Armenian (Armenia)"
+
+msgid "az-Latn-AZ"
+msgstr "Azeri (Latin, Azerbaijan)"
+
+msgid "eu-ES"
+msgstr "Basque (Basque)"
+
+msgid "hsb-DE"
+msgstr "Upper Sorbian (Germany)"
+
+msgid "mk-MK"
+msgstr "Macedonian (Former Yugoslav Republic of Macedonia)"
+
+msgid "tn-ZA"
+msgstr "Setswana (South Africa)"
+
+msgid "xh-ZA"
+msgstr "isiXhosa (South Africa)"
+
+msgid "zu-ZA"
+msgstr "isiZulu (South Africa)"
+
+msgid "af-ZA"
+msgstr "Afrikaans (South Africa)"
+
+msgid "ka-GE"
+msgstr "Georgian (Georgia)"
+
+msgid "fo-FO"
+msgstr "Faroese (Faroe Islands)"
+
+msgid "hi-IN"
+msgstr "Hindi (India)"
+
+msgid "mt-MT"
+msgstr "Maltese (Malta)"
+
+msgid "se-NO"
+msgstr "Sami, Northern (Norway)"
+
+msgid "ms-MY"
+msgstr "Malay (Malaysia)"
+
+msgid "kk-KZ"
+msgstr "Kazakh (Kazakhstan)"
+
+msgid "ky-KG"
+msgstr "Kyrgyz (Kyrgyzstan)"
+
+msgid "sw-KE"
+msgstr "Kiswahili (Kenya)"
+
+msgid "tk-TM"
+msgstr "Turkmen (Turkmenistan)"
+
+msgid "uz-Latn-UZ"
+msgstr "Uzbek (Latin, Uzbekistan)"
+
+msgid "tt-RU"
+msgstr "Tatar (Russia)"
+
+msgid "bn-IN"
+msgstr "Bengali (India)"
+
+msgid "pa-IN"
+msgstr "Punjabi (India)"
+
+msgid "gu-IN"
+msgstr "Gujarati (India)"
+
+msgid "or-IN"
+msgstr "Oriya (India)"
+
+msgid "ta-IN"
+msgstr "Tamil (India)"
+
+msgid "te-IN"
+msgstr "Telugu (India)"
+
+msgid "kn-IN"
+msgstr "Kannada (India)"
+
+msgid "ml-IN"
+msgstr "Malayalam (India)"
+
+msgid "as-IN"
+msgstr "Assamese (India)"
+
+msgid "mr-IN"
+msgstr "Marathi (India)"
+
+msgid "sa-IN"
+msgstr "Sanskrit (India)"
+
+msgid "mn-MN"
+msgstr "Mongolian (Cyrillic, Mongolia)"
+
+msgid "bo-CN"
+msgstr "Tibetan (PRC)"
+
+msgid "cy-GB"
+msgstr "Welsh (United Kingdom)"
+
+msgid "km-KH"
+msgstr "Khmer (Cambodia)"
+
+msgid "lo-LA"
+msgstr "Lao (Lao P.D.R.)"
+
+msgid "gl-ES"
+msgstr "Galician (Galician)"
+
+msgid "kok-IN"
+msgstr "Konkani (India)"
+
+msgid "syr-SY"
+msgstr "Syriac (Syria)"
+
+msgid "si-LK"
+msgstr "Sinhala (Sri Lanka)"
+
+msgid "iu-Cans-CA"
+msgstr "Inuktitut (Syllabics, Canada)"
+
+msgid "am-ET"
+msgstr "Amharic (Ethiopia)"
+
+msgid "ne-NP"
+msgstr "Nepali (Nepal)"
+
+msgid "fy-NL"
+msgstr "Frisian (Netherlands)"
+
+msgid "ps-AF"
+msgstr "Pashto (Afghanistan)"
+
+msgid "fil-PH"
+msgstr "Filipino (Philippines)"
+
+msgid "dv-MV"
+msgstr "Divehi (Maldives)"
+
+msgid "ha-Latn-NG"
+msgstr "Hausa (Latin, Nigeria)"
+
+msgid "yo-NG"
+msgstr "Yoruba (Nigeria)"
+
+msgid "quz-BO"
+msgstr "Quechua (Bolivia)"
+
+msgid "nso-ZA"
+msgstr "Sesotho sa Leboa (South Africa)"
+
+msgid "ba-RU"
+msgstr "Bashkir (Russia)"
+
+msgid "lb-LU"
+msgstr "Luxembourgish (Luxembourg)"
+
+msgid "kl-GL"
+msgstr "Greenlandic (Greenland)"
+
+msgid "ig-NG"
+msgstr "Igbo (Nigeria)"
+
+msgid "ii-CN"
+msgstr "Yi (PRC)"
+
+msgid "arn-CL"
+msgstr "Mapudungun (Chile)"
+
+msgid "moh-CA"
+msgstr "Mohawk (Mohawk)"
+
+msgid "br-FR"
+msgstr "Breton (France)"
+
+msgid "ug-CN"
+msgstr "Uyghur (PRC)"
+
+msgid "mi-NZ"
+msgstr "Maori (New Zealand)"
+
+msgid "oc-FR"
+msgstr "Occitan (France)"
+
+msgid "co-FR"
+msgstr "Corsican (France)"
+
+msgid "gsw-FR"
+msgstr "Alsatian (France)"
+
+msgid "sah-RU"
+msgstr "Yakut (Russia)"
+
+msgid "qut-GT"
+msgstr "K'iche (Guatemala)"
+
+msgid "rw-RW"
+msgstr "Kinyarwanda (Rwanda)"
+
+msgid "wo-SN"
+msgstr "Wolof (Senegal)"
+
+msgid "prs-AF"
+msgstr "Dari (Afghanistan)"
+
+msgid "gd-GB"
+msgstr "Scottish Gaelic (United Kingdom)"
+
+msgid "ar-IQ"
+msgstr "Arabic (Iraq)"
+
+msgid "zh-CN"
+msgstr "Chinese (Simplified, PRC)"
+
+msgid "de-CH"
+msgstr "German (Switzerland)"
+
+msgid "en-GB"
+msgstr "English (United Kingdom)"
+
+msgid "es-MX"
+msgstr "Spanish (Mexico)"
+
+msgid "fr-BE"
+msgstr "French (Belgium)"
+
+msgid "it-CH"
+msgstr "Italian (Switzerland)"
+
+msgid "nl-BE"
+msgstr "Dutch (Belgium)"
+
+msgid "nn-NO"
+msgstr "Norwegian, Nynorsk (Norway)"
+
+msgid "pt-PT"
+msgstr "Portuguese (Portugal)"
+
+msgid "sr-Latn-CS"
+msgstr "Serbian (Latin, Serbia and Montenegro (Former))"
+
+msgid "sv-FI"
+msgstr "Swedish (Finland)"
+
+msgid "az-Cyrl-AZ"
+msgstr "Azeri (Cyrillic, Azerbaijan)"
+
+msgid "dsb-DE"
+msgstr "Lower Sorbian (Germany)"
+
+msgid "se-SE"
+msgstr "Sami, Northern (Sweden)"
+
+msgid "ga-IE"
+msgstr "Irish (Ireland)"
+
+msgid "ms-BN"
+msgstr "Malay (Brunei Darussalam)"
+
+msgid "uz-Cyrl-UZ"
+msgstr "Uzbek (Cyrillic, Uzbekistan)"
+
+msgid "bn-BD"
+msgstr "Bengali (Bangladesh)"
+
+msgid "mn-Mong-CN"
+msgstr "Mongolian (Traditional Mongolian, PRC)"
+
+msgid "iu-Latn-CA"
+msgstr "Inuktitut (Latin, Canada)"
+
+msgid "tzm-Latn-DZ"
+msgstr "Tamazight (Latin, Algeria)"
+
+msgid "quz-EC"
+msgstr "Quechua (Ecuador)"
+
+msgid "ar-EG"
+msgstr "Arabic (Egypt)"
+
+msgid "zh-HK"
+msgstr "Chinese (Traditional, Hong Kong S.A.R.)"
+
+msgid "de-AT"
+msgstr "German (Austria)"
+
+msgid "en-AU"
+msgstr "English (Australia)"
+
+msgid "es-ES"
+msgstr "Spanish (Spain, International Sort)"
+
+msgid "fr-CA"
+msgstr "French (Canada)"
+
+msgid "sr-Cyrl-CS"
+msgstr "Serbian (Cyrillic, Serbia and Montenegro (Former))"
+
+msgid "se-FI"
+msgstr "Sami, Northern (Finland)"
+
+msgid "quz-PE"
+msgstr "Quechua (Peru)"
+
+msgid "ar-LY"
+msgstr "Arabic (Libya)"
+
+msgid "zh-SG"
+msgstr "Chinese (Simplified, Singapore)"
+
+msgid "de-LU"
+msgstr "German (Luxembourg)"
+
+msgid "en-CA"
+msgstr "English (Canada)"
+
+msgid "es-GT"
+msgstr "Spanish (Guatemala)"
+
+msgid "fr-CH"
+msgstr "French (Switzerland)"
+
+msgid "hr-BA"
+msgstr "Croatian (Latin, Bosnia and Herzegovina)"
+
+msgid "smj-NO"
+msgstr "Sami, Lule (Norway)"
+
+msgid "ar-DZ"
+msgstr "Arabic (Algeria)"
+
+msgid "zh-MO"
+msgstr "Chinese (Traditional, Macao S.A.R.)"
+
+msgid "de-LI"
+msgstr "German (Liechtenstein)"
+
+msgid "en-NZ"
+msgstr "English (New Zealand)"
+
+msgid "es-CR"
+msgstr "Spanish (Costa Rica)"
+
+msgid "fr-LU"
+msgstr "French (Luxembourg)"
+
+msgid "bs-Latn-BA"
+msgstr "Bosnian (Latin, Bosnia and Herzegovina)"
+
+msgid "smj-SE"
+msgstr "Sami, Lule (Sweden)"
+
+msgid "ar-MA"
+msgstr "Arabic (Morocco)"
+
+msgid "en-IE"
+msgstr "English (Ireland)"
+
+msgid "es-PA"
+msgstr "Spanish (Panama)"
+
+msgid "fr-MC"
+msgstr "French (Monaco)"
+
+msgid "sr-Latn-BA"
+msgstr "Serbian (Latin, Bosnia and Herzegovina)"
+
+msgid "sma-NO"
+msgstr "Sami, Southern (Norway)"
+
+msgid "ar-TN"
+msgstr "Arabic (Tunisia)"
+
+msgid "en-ZA"
+msgstr "English (South Africa)"
+
+msgid "es-DO"
+msgstr "Spanish (Dominican Republic)"
+
+msgid "sr-Cyrl-BA"
+msgstr "Serbian (Cyrillic, Bosnia and Herzegovina)"
+
+msgid "sma-SE"
+msgstr "Sami, Southern (Sweden)"
+
+msgid "ar-OM"
+msgstr "Arabic (Oman)"
+
+msgid "en-JM"
+msgstr "English (Jamaica)"
+
+msgid "es-VE"
+msgstr "Spanish (Bolivarian Republic of Venezuela)"
+
+msgid "bs-Cyrl-BA"
+msgstr "Bosnian (Cyrillic, Bosnia and Herzegovina)"
+
+msgid "sms-FI"
+msgstr "Sami, Skolt (Finland)"
+
+msgid "ar-YE"
+msgstr "Arabic (Yemen)"
+
+msgid "en-029"
+msgstr "English (Caribbean)"
+
+msgid "es-CO"
+msgstr "Spanish (Colombia)"
+
+msgid "sr-Latn-RS"
+msgstr "Serbian (Latin, Serbia)"
+
+msgid "smn-FI"
+msgstr "Sami, Inari (Finland)"
+
+msgid "ar-SY"
+msgstr "Arabic (Syria)"
+
+msgid "en-BZ"
+msgstr "English (Belize)"
+
+msgid "es-PE"
+msgstr "Spanish (Peru)"
+
+msgid "sr-Cyrl-RS"
+msgstr "Serbian (Cyrillic, Serbia)"
+
+msgid "ar-JO"
+msgstr "Arabic (Jordan)"
+
+msgid "en-TT"
+msgstr "English (Trinidad and Tobago)"
+
+msgid "es-AR"
+msgstr "Spanish (Argentina)"
+
+msgid "sr-Latn-ME"
+msgstr "Serbian (Latin, Montenegro)"
+
+msgid "ar-LB"
+msgstr "Arabic (Lebanon)"
+
+msgid "en-ZW"
+msgstr "English (Zimbabwe)"
+
+msgid "es-EC"
+msgstr "Spanish (Ecuador)"
+
+msgid "sr-Cyrl-ME"
+msgstr "Serbian (Cyrillic, Montenegro)"
+
+msgid "ar-KW"
+msgstr "Arabic (Kuwait)"
+
+msgid "en-PH"
+msgstr "English (Republic of the Philippines)"
+
+msgid "es-CL"
+msgstr "Spanish (Chile)"
+
+msgid "ar-AE"
+msgstr "Arabic (U.A.E.)"
+
+msgid "es-UY"
+msgstr "Spanish (Uruguay)"
+
+msgid "ar-BH"
+msgstr "Arabic (Bahrain)"
+
+msgid "es-PY"
+msgstr "Spanish (Paraguay)"
+
+msgid "ar-QA"
+msgstr "Arabic (Qatar)"
+
+msgid "en-IN"
+msgstr "English (India)"
+
+msgid "es-BO"
+msgstr "Spanish (Bolivia)"
+
+msgid "en-MY"
+msgstr "English (Malaysia)"
+
+msgid "es-SV"
+msgstr "Spanish (El Salvador)"
+
+msgid "en-SG"
+msgstr "English (Singapore)"
+
+msgid "es-HN"
+msgstr "Spanish (Honduras)"
+
+msgid "es-NI"
+msgstr "Spanish (Nicaragua)"
+
+msgid "es-PR"
+msgstr "Spanish (Puerto Rico)"
+
+msgid "es-US"
+msgstr "Spanish (United States)"
+
+msgid "bs-Cyrl"
+msgstr "Bosnian (Cyrillic)"
+
+msgid "bs-Latn"
+msgstr "Bosnian (Latin)"
+
+msgid "sr-Cyrl"
+msgstr "Serbian (Cyrillic)"
+
+msgid "sr-Latn"
+msgstr "Serbian (Latin)"
+
+msgid "smn"
+msgstr "Sami (Inari)"
+
+msgid "az-Cyrl"
+msgstr "Azeri (Cyrillic)"
+
+msgid "sms"
+msgstr "Sami (Skolt)"
+
+msgid "zh"
+msgstr "Chinese"
+
+msgid "nn"
+msgstr "Norwegian (Nynorsk)"
+
+msgid "bs"
+msgstr "Bosnian"
+
+msgid "az-Latn"
+msgstr "Azeri (Latin)"
+
+msgid "sma"
+msgstr "Sami (Southern)"
+
+msgid "uz-Cyrl"
+msgstr "Uzbek (Cyrillic)"
+
+msgid "mn-Cyrl"
+msgstr "Mongolian (Cyrillic)"
+
+msgid "iu-Cans"
+msgstr "Inuktitut (Syllabics)"
+
+msgid "zh-Hant"
+msgstr "Chinese (Traditional)"
+
+msgid "nb"
+msgstr "Norwegian (Bokmål)"
+
+msgid "sr"
+msgstr "Serbian"
+
+msgid "tg-Cyrl"
+msgstr "Tajik (Cyrillic)"
+
+msgid "dsb"
+msgstr "Lower Sorbian"
+
+msgid "smj"
+msgstr "Sami (Lule)"
+
+msgid "uz-Latn"
+msgstr "Uzbek (Latin)"
+
+msgid "mn-Mong"
+msgstr "Mongolian (Traditional Mongolian)"
+
+msgid "iu-Latn"
+msgstr "Inuktitut (Latin)"
+
+msgid "tzm-Latn"
+msgstr "Tamazight (Latin)"
+
+msgid "ha-Latn"
+msgstr "Hausa (Latin)"
+
+msgid "zh-CHS"
+msgstr "Chinese (Simplified) Legacy"
+
+msgid "zh-CHT"
+msgstr "Chinese (Traditional) Legacy"

@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<Settings>
+  <LocalizableAttribute>T4Localization.Attributes.LocalizableAttribute</LocalizableAttribute>
+  <GeneratedNamespace>Test.Generated</GeneratedNamespace>
+  <GeneratedClassName>DummyClass</GeneratedClassName>
+  <I18NRegisterFunction>T4Localization.Tests.I18N.Register</I18NRegisterFunction>
+  <DotNetCultures>
+    <Generate>True</Generate>
+    <!--If specified will add english translations provided by .NET-->
+    <EnglishPoFilePath>Messages.en.po</EnglishPoFilePath>
+  </DotNetCultures>
+</Settings>

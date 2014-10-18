@@ -1,0 +1,1072 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: app\n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: en\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.6.4\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+msgid "ar"
+msgstr ""
+
+msgid "bg"
+msgstr ""
+
+msgid "ca"
+msgstr ""
+
+msgid "zh-Hans"
+msgstr ""
+
+msgid "cs"
+msgstr ""
+
+msgid "da"
+msgstr ""
+
+msgid "de"
+msgstr ""
+
+msgid "el"
+msgstr ""
+
+msgid "en"
+msgstr ""
+
+msgid "es"
+msgstr ""
+
+msgid "fi"
+msgstr ""
+
+msgid "fr"
+msgstr ""
+
+msgid "he"
+msgstr ""
+
+msgid "hu"
+msgstr ""
+
+msgid "is"
+msgstr ""
+
+msgid "it"
+msgstr ""
+
+msgid "ja"
+msgstr ""
+
+msgid "ko"
+msgstr ""
+
+msgid "nl"
+msgstr ""
+
+msgid "no"
+msgstr ""
+
+msgid "pl"
+msgstr ""
+
+msgid "pt"
+msgstr ""
+
+msgid "rm"
+msgstr ""
+
+msgid "ro"
+msgstr ""
+
+msgid "ru"
+msgstr ""
+
+msgid "hr"
+msgstr ""
+
+msgid "sk"
+msgstr ""
+
+msgid "sq"
+msgstr ""
+
+msgid "sv"
+msgstr ""
+
+msgid "th"
+msgstr ""
+
+msgid "tr"
+msgstr ""
+
+msgid "ur"
+msgstr ""
+
+msgid "id"
+msgstr ""
+
+msgid "uk"
+msgstr ""
+
+msgid "be"
+msgstr ""
+
+msgid "sl"
+msgstr ""
+
+msgid "et"
+msgstr ""
+
+msgid "lv"
+msgstr ""
+
+msgid "lt"
+msgstr ""
+
+msgid "tg"
+msgstr ""
+
+msgid "fa"
+msgstr ""
+
+msgid "vi"
+msgstr ""
+
+msgid "hy"
+msgstr ""
+
+msgid "az"
+msgstr ""
+
+msgid "eu"
+msgstr ""
+
+msgid "hsb"
+msgstr ""
+
+msgid "mk"
+msgstr ""
+
+msgid "tn"
+msgstr ""
+
+msgid "xh"
+msgstr ""
+
+msgid "zu"
+msgstr ""
+
+msgid "af"
+msgstr ""
+
+msgid "ka"
+msgstr ""
+
+msgid "fo"
+msgstr ""
+
+msgid "hi"
+msgstr ""
+
+msgid "mt"
+msgstr ""
+
+msgid "se"
+msgstr ""
+
+msgid "ga"
+msgstr ""
+
+msgid "ms"
+msgstr ""
+
+msgid "kk"
+msgstr ""
+
+msgid "ky"
+msgstr ""
+
+msgid "sw"
+msgstr ""
+
+msgid "tk"
+msgstr ""
+
+msgid "uz"
+msgstr ""
+
+msgid "tt"
+msgstr ""
+
+msgid "bn"
+msgstr ""
+
+msgid "pa"
+msgstr ""
+
+msgid "gu"
+msgstr ""
+
+msgid "or"
+msgstr ""
+
+msgid "ta"
+msgstr ""
+
+msgid "te"
+msgstr ""
+
+msgid "kn"
+msgstr ""
+
+msgid "ml"
+msgstr ""
+
+msgid "as"
+msgstr ""
+
+msgid "mr"
+msgstr ""
+
+msgid "sa"
+msgstr ""
+
+msgid "mn"
+msgstr ""
+
+msgid "bo"
+msgstr ""
+
+msgid "cy"
+msgstr ""
+
+msgid "km"
+msgstr ""
+
+msgid "lo"
+msgstr ""
+
+msgid "gl"
+msgstr ""
+
+msgid "kok"
+msgstr ""
+
+msgid "syr"
+msgstr ""
+
+msgid "si"
+msgstr ""
+
+msgid "iu"
+msgstr ""
+
+msgid "am"
+msgstr ""
+
+msgid "tzm"
+msgstr ""
+
+msgid "ne"
+msgstr ""
+
+msgid "fy"
+msgstr ""
+
+msgid "ps"
+msgstr ""
+
+msgid "fil"
+msgstr ""
+
+msgid "dv"
+msgstr ""
+
+msgid "ha"
+msgstr ""
+
+msgid "yo"
+msgstr ""
+
+msgid "quz"
+msgstr ""
+
+msgid "nso"
+msgstr ""
+
+msgid "ba"
+msgstr ""
+
+msgid "lb"
+msgstr ""
+
+msgid "kl"
+msgstr ""
+
+msgid "ig"
+msgstr ""
+
+msgid "ii"
+msgstr ""
+
+msgid "arn"
+msgstr ""
+
+msgid "moh"
+msgstr ""
+
+msgid "br"
+msgstr ""
+
+msgid "ug"
+msgstr ""
+
+msgid "mi"
+msgstr ""
+
+msgid "oc"
+msgstr ""
+
+msgid "co"
+msgstr ""
+
+msgid "gsw"
+msgstr ""
+
+msgid "sah"
+msgstr ""
+
+msgid "qut"
+msgstr ""
+
+msgid "rw"
+msgstr ""
+
+msgid "wo"
+msgstr ""
+
+msgid "prs"
+msgstr ""
+
+msgid "gd"
+msgstr ""
+
+msgid "ar-SA"
+msgstr ""
+
+msgid "bg-BG"
+msgstr ""
+
+msgid "ca-ES"
+msgstr ""
+
+msgid "zh-TW"
+msgstr ""
+
+msgid "cs-CZ"
+msgstr ""
+
+msgid "da-DK"
+msgstr ""
+
+msgid "de-DE"
+msgstr ""
+
+msgid "el-GR"
+msgstr ""
+
+msgid "en-US"
+msgstr ""
+
+msgid "fi-FI"
+msgstr ""
+
+msgid "fr-FR"
+msgstr ""
+
+msgid "he-IL"
+msgstr ""
+
+msgid "hu-HU"
+msgstr ""
+
+msgid "is-IS"
+msgstr ""
+
+msgid "it-IT"
+msgstr ""
+
+msgid "ja-JP"
+msgstr ""
+
+msgid "ko-KR"
+msgstr ""
+
+msgid "nl-NL"
+msgstr ""
+
+msgid "nb-NO"
+msgstr ""
+
+msgid "pl-PL"
+msgstr ""
+
+msgid "pt-BR"
+msgstr ""
+
+msgid "rm-CH"
+msgstr ""
+
+msgid "ro-RO"
+msgstr ""
+
+msgid "ru-RU"
+msgstr ""
+
+msgid "hr-HR"
+msgstr ""
+
+msgid "sk-SK"
+msgstr ""
+
+msgid "sq-AL"
+msgstr ""
+
+msgid "sv-SE"
+msgstr ""
+
+msgid "th-TH"
+msgstr ""
+
+msgid "tr-TR"
+msgstr ""
+
+msgid "ur-PK"
+msgstr ""
+
+msgid "id-ID"
+msgstr ""
+
+msgid "uk-UA"
+msgstr ""
+
+msgid "be-BY"
+msgstr ""
+
+msgid "sl-SI"
+msgstr ""
+
+msgid "et-EE"
+msgstr ""
+
+msgid "lv-LV"
+msgstr ""
+
+msgid "lt-LT"
+msgstr ""
+
+msgid "tg-Cyrl-TJ"
+msgstr ""
+
+msgid "fa-IR"
+msgstr ""
+
+msgid "vi-VN"
+msgstr ""
+
+msgid "hy-AM"
+msgstr ""
+
+msgid "az-Latn-AZ"
+msgstr ""
+
+msgid "eu-ES"
+msgstr ""
+
+msgid "hsb-DE"
+msgstr ""
+
+msgid "mk-MK"
+msgstr ""
+
+msgid "tn-ZA"
+msgstr ""
+
+msgid "xh-ZA"
+msgstr ""
+
+msgid "zu-ZA"
+msgstr ""
+
+msgid "af-ZA"
+msgstr ""
+
+msgid "ka-GE"
+msgstr ""
+
+msgid "fo-FO"
+msgstr ""
+
+msgid "hi-IN"
+msgstr ""
+
+msgid "mt-MT"
+msgstr ""
+
+msgid "se-NO"
+msgstr ""
+
+msgid "ms-MY"
+msgstr ""
+
+msgid "kk-KZ"
+msgstr ""
+
+msgid "ky-KG"
+msgstr ""
+
+msgid "sw-KE"
+msgstr ""
+
+msgid "tk-TM"
+msgstr ""
+
+msgid "uz-Latn-UZ"
+msgstr ""
+
+msgid "tt-RU"
+msgstr ""
+
+msgid "bn-IN"
+msgstr ""
+
+msgid "pa-IN"
+msgstr ""
+
+msgid "gu-IN"
+msgstr ""
+
+msgid "or-IN"
+msgstr ""
+
+msgid "ta-IN"
+msgstr ""
+
+msgid "te-IN"
+msgstr ""
+
+msgid "kn-IN"
+msgstr ""
+
+msgid "ml-IN"
+msgstr ""
+
+msgid "as-IN"
+msgstr ""
+
+msgid "mr-IN"
+msgstr ""
+
+msgid "sa-IN"
+msgstr ""
+
+msgid "mn-MN"
+msgstr ""
+
+msgid "bo-CN"
+msgstr ""
+
+msgid "cy-GB"
+msgstr ""
+
+msgid "km-KH"
+msgstr ""
+
+msgid "lo-LA"
+msgstr ""
+
+msgid "gl-ES"
+msgstr ""
+
+msgid "kok-IN"
+msgstr ""
+
+msgid "syr-SY"
+msgstr ""
+
+msgid "si-LK"
+msgstr ""
+
+msgid "iu-Cans-CA"
+msgstr ""
+
+msgid "am-ET"
+msgstr ""
+
+msgid "ne-NP"
+msgstr ""
+
+msgid "fy-NL"
+msgstr ""
+
+msgid "ps-AF"
+msgstr ""
+
+msgid "fil-PH"
+msgstr ""
+
+msgid "dv-MV"
+msgstr ""
+
+msgid "ha-Latn-NG"
+msgstr ""
+
+msgid "yo-NG"
+msgstr ""
+
+msgid "quz-BO"
+msgstr ""
+
+msgid "nso-ZA"
+msgstr ""
+
+msgid "ba-RU"
+msgstr ""
+
+msgid "lb-LU"
+msgstr ""
+
+msgid "kl-GL"
+msgstr ""
+
+msgid "ig-NG"
+msgstr ""
+
+msgid "ii-CN"
+msgstr ""
+
+msgid "arn-CL"
+msgstr ""
+
+msgid "moh-CA"
+msgstr ""
+
+msgid "br-FR"
+msgstr ""
+
+msgid "ug-CN"
+msgstr ""
+
+msgid "mi-NZ"
+msgstr ""
+
+msgid "oc-FR"
+msgstr ""
+
+msgid "co-FR"
+msgstr ""
+
+msgid "gsw-FR"
+msgstr ""
+
+msgid "sah-RU"
+msgstr ""
+
+msgid "qut-GT"
+msgstr ""
+
+msgid "rw-RW"
+msgstr ""
+
+msgid "wo-SN"
+msgstr ""
+
+msgid "prs-AF"
+msgstr ""
+
+msgid "gd-GB"
+msgstr ""
+
+msgid "ar-IQ"
+msgstr ""
+
+msgid "zh-CN"
+msgstr ""
+
+msgid "de-CH"
+msgstr ""
+
+msgid "en-GB"
+msgstr ""
+
+msgid "es-MX"
+msgstr ""
+
+msgid "fr-BE"
+msgstr ""
+
+msgid "it-CH"
+msgstr ""
+
+msgid "nl-BE"
+msgstr ""
+
+msgid "nn-NO"
+msgstr ""
+
+msgid "pt-PT"
+msgstr ""
+
+msgid "sr-Latn-CS"
+msgstr ""
+
+msgid "sv-FI"
+msgstr ""
+
+msgid "az-Cyrl-AZ"
+msgstr ""
+
+msgid "dsb-DE"
+msgstr ""
+
+msgid "se-SE"
+msgstr ""
+
+msgid "ga-IE"
+msgstr ""
+
+msgid "ms-BN"
+msgstr ""
+
+msgid "uz-Cyrl-UZ"
+msgstr ""
+
+msgid "bn-BD"
+msgstr ""
+
+msgid "mn-Mong-CN"
+msgstr ""
+
+msgid "iu-Latn-CA"
+msgstr ""
+
+msgid "tzm-Latn-DZ"
+msgstr ""
+
+msgid "quz-EC"
+msgstr ""
+
+msgid "ar-EG"
+msgstr ""
+
+msgid "zh-HK"
+msgstr ""
+
+msgid "de-AT"
+msgstr ""
+
+msgid "en-AU"
+msgstr ""
+
+msgid "es-ES"
+msgstr ""
+
+msgid "fr-CA"
+msgstr ""
+
+msgid "sr-Cyrl-CS"
+msgstr ""
+
+msgid "se-FI"
+msgstr ""
+
+msgid "quz-PE"
+msgstr ""
+
+msgid "ar-LY"
+msgstr ""
+
+msgid "zh-SG"
+msgstr ""
+
+msgid "de-LU"
+msgstr ""
+
+msgid "en-CA"
+msgstr ""
+
+msgid "es-GT"
+msgstr ""
+
+msgid "fr-CH"
+msgstr ""
+
+msgid "hr-BA"
+msgstr ""
+
+msgid "smj-NO"
+msgstr ""
+
+msgid "ar-DZ"
+msgstr ""
+
+msgid "zh-MO"
+msgstr ""
+
+msgid "de-LI"
+msgstr ""
+
+msgid "en-NZ"
+msgstr ""
+
+msgid "es-CR"
+msgstr ""
+
+msgid "fr-LU"
+msgstr ""
+
+msgid "bs-Latn-BA"
+msgstr ""
+
+msgid "smj-SE"
+msgstr ""
+
+msgid "ar-MA"
+msgstr ""
+
+msgid "en-IE"
+msgstr ""
+
+msgid "es-PA"
+msgstr ""
+
+msgid "fr-MC"
+msgstr ""
+
+msgid "sr-Latn-BA"
+msgstr ""
+
+msgid "sma-NO"
+msgstr ""
+
+msgid "ar-TN"
+msgstr ""
+
+msgid "en-ZA"
+msgstr ""
+
+msgid "es-DO"
+msgstr ""
+
+msgid "sr-Cyrl-BA"
+msgstr ""
+
+msgid "sma-SE"
+msgstr ""
+
+msgid "ar-OM"
+msgstr ""
+
+msgid "en-JM"
+msgstr ""
+
+msgid "es-VE"
+msgstr ""
+
+msgid "bs-Cyrl-BA"
+msgstr ""
+
+msgid "sms-FI"
+msgstr ""
+
+msgid "ar-YE"
+msgstr ""
+
+msgid "en-029"
+msgstr ""
+
+msgid "es-CO"
+msgstr ""
+
+msgid "sr-Latn-RS"
+msgstr ""
+
+msgid "smn-FI"
+msgstr ""
+
+msgid "ar-SY"
+msgstr ""
+
+msgid "en-BZ"
+msgstr ""
+
+msgid "es-PE"
+msgstr ""
+
+msgid "sr-Cyrl-RS"
+msgstr ""
+
+msgid "ar-JO"
+msgstr ""
+
+msgid "en-TT"
+msgstr ""
+
+msgid "es-AR"
+msgstr ""
+
+msgid "sr-Latn-ME"
+msgstr ""
+
+msgid "ar-LB"
+msgstr ""
+
+msgid "en-ZW"
+msgstr ""
+
+msgid "es-EC"
+msgstr ""
+
+msgid "sr-Cyrl-ME"
+msgstr ""
+
+msgid "ar-KW"
+msgstr ""
+
+msgid "en-PH"
+msgstr ""
+
+msgid "es-CL"
+msgstr ""
+
+msgid "ar-AE"
+msgstr ""
+
+msgid "es-UY"
+msgstr ""
+
+msgid "ar-BH"
+msgstr ""
+
+msgid "es-PY"
+msgstr ""
+
+msgid "ar-QA"
+msgstr ""
+
+msgid "en-IN"
+msgstr ""
+
+msgid "es-BO"
+msgstr ""
+
+msgid "en-MY"
+msgstr ""
+
+msgid "es-SV"
+msgstr ""
+
+msgid "en-SG"
+msgstr ""
+
+msgid "es-HN"
+msgstr ""
+
+msgid "es-NI"
+msgstr ""
+
+msgid "es-PR"
+msgstr ""
+
+msgid "es-US"
+msgstr ""
+
+msgid "bs-Cyrl"
+msgstr ""
+
+msgid "bs-Latn"
+msgstr ""
+
+msgid "sr-Cyrl"
+msgstr ""
+
+msgid "sr-Latn"
+msgstr ""
+
+msgid "smn"
+msgstr ""
+
+msgid "az-Cyrl"
+msgstr ""
+
+msgid "sms"
+msgstr ""
+
+msgid "zh"
+msgstr ""
+
+msgid "nn"
+msgstr ""
+
+msgid "bs"
+msgstr ""
+
+msgid "az-Latn"
+msgstr ""
+
+msgid "sma"
+msgstr ""
+
+msgid "uz-Cyrl"
+msgstr ""
+
+msgid "mn-Cyrl"
+msgstr ""
+
+msgid "iu-Cans"
+msgstr ""
+
+msgid "zh-Hant"
+msgstr ""
+
+msgid "nb"
+msgstr ""
+
+msgid "sr"
+msgstr ""
+
+msgid "tg-Cyrl"
+msgstr ""
+
+msgid "dsb"
+msgstr ""
+
+msgid "smj"
+msgstr ""
+
+msgid "uz-Latn"
+msgstr ""
+
+msgid "mn-Mong"
+msgstr ""
+
+msgid "iu-Latn"
+msgstr ""
+
+msgid "tzm-Latn"
+msgstr ""
+
+msgid "ha-Latn"
+msgstr ""
+
+msgid "zh-CHS"
+msgstr ""
+
+msgid "zh-CHT"
+msgstr ""
