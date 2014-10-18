@@ -53,14 +53,14 @@
 
 
 <#
-	//System.Diagnostics.Debugger.Launch();
-	//System.Diagnostics.Debugger.Break();	
+    //System.Diagnostics.Debugger.Launch();
+    //System.Diagnostics.Debugger.Break();	
     var settings = XmlSettings.Load(VSHelper.Host.TemplateFile + ".settings.xml");
     var englishPoFliePath = !string.IsNullOrEmpty( settings.EnglishPoFilePath) ? Host.ResolvePath(settings.EnglishPoFilePath) : null;
-	var projectItems = VSHelper.GetAllProjectItems();
+    var projectItems = VSHelper.GetAllProjectItems();
     var translations = new HashSet<string>();
 
-	//Process all cs files
+    //Process all cs files
     
     VSHelper.ProcessFiles(projectItems, (file, name) =>
         VSHelper.ProcessTypes(file, (type, pItem) =>
@@ -73,10 +73,10 @@
                 if (propAttr == null)
                 {
                     translations.Add(prop.Name);
-					continue;
+				    continue;
                 }
                 if (VSHelper.GetAttributeArgumentValue(propAttr, "Ignore") == "true")
-					continue;
+				    continue;
                 var messageId = VSHelper.GetAttributeArgumentValue(propAttr, "MessageId");
                 translations.Add(!string.IsNullOrEmpty(messageId) ? messageId.Replace("\"", "") : prop.Name);
             }
@@ -110,7 +110,12 @@
         }
     }
 
-	
+    foreach (var ns in settings.ImportNamespaces)
+    {
+#>
+using <#=ns#>;
+<#  
+    }
 
 #>
 
@@ -153,9 +158,12 @@ namespace <#=settings.GeneratedNamespace#>
                 GenerateCultures = xElement.XPathSelectElement("/DotNetCultures/Generate").Value.ToUpperInvariant() == "TRUE",
                 EnglishPoFilePath = xElement.XPathSelectElement("/DotNetCultures/EnglishPoFilePath").Value,
                 GeneratedNamespace = xElement.XPathSelectElement("/GeneratedNamespace").Value,
+                ImportNamespaces = new HashSet<string>(xElement.XPathSelectElements("/ImportNamespaces//ImportNamespace").Select(o => o.Value))
             };
             return settings;
         }
+
+        public ISet<string> ImportNamespaces { get; set; }
 
         public string I18NRegisterFunction { get; set; }
         
